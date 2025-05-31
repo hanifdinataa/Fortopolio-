@@ -4,7 +4,7 @@
 
 ---
 
-![Meme lucu dulu biar semangat 😄](https://i.imgflip.com/6qemht.jpg)
+![Meme lucu dulu biar semangat 😄]([https://i.imgflip.com/6qemht.jpg](https://www.google.com/imgres?q=meme%20lucu&imgurl=https%3A%2F%2Fcdn.idntimes.com%2Fcontent-images%2Fcommunity%2F2023%2F02%2F20230228-102017-d90fee129010b8997a77a0585438e7e6.jpg&imgrefurl=https%3A%2F%2Fwww.idntimes.com%2Fhype%2Fhumor%2Fmina-1%2Fmeme-lucu-beratnya-kehidupan-c1c2&docid=t4ivaa9Tr0UZ9M&tbnid=ZYzLNtdh2MmgEM&vet=12ahUKEwiOoI3moc2NAxUE2DgGHdnSGE4QM3oFCIgBEAA..i&w=750&h=803&hcb=2&ved=2ahUKEwiOoI3moc2NAxUE2DgGHdnSGE4QM3oFCIgBEAA))
 > *Ketika dosen tanya: 'Mana portofoliomu?' dan kamu jawab pakai Fortopolio.*
 
 ---
@@ -45,8 +45,8 @@ Proyek ini sepenuhnya ditulis dalam **HTML + CSS + JS** dalam satu file aja. Gam
 ## 📸 Screenshot
 _(Kamu bisa ganti placeholder-nya dengan screenshot real setelah di-custom)_
 
-![Tampilan Desktop](https://via.placeholder.com/800x400?text=Screenshot+Fortopolio+di+Desktop)
-![Tampilan Mobile](https://via.placeholder.com/400x800?text=Screenshot+Fortopolio+di+Mobile)
+![Tampilan Desktop](ss/Mobile.png)
+![Tampilan Mobile](ss/Dekstop.png)
 
 ---
 
