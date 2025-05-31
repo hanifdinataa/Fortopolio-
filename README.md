@@ -6,8 +6,6 @@
 
 <img src="https://cdn.idntimes.com/content-images/community/2023/02/20230228-102017-d90fee129010b8997a77a0585438e7e6.jpg" alt="Meme lucu dulu biar semangat 😄" width="400"/>
 
-> *Ketika dosen tanya: 'Mana portofoliomu?' dan kamu jawab pakai Fortopolio.*
-
 ---
 
 ## 👋 Hai!
